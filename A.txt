@@ -1,0 +1,17 @@
+1 khai báo bi?n ki?u bool
+s?a : bool isA = (90 <= grade && grade <= 100) ;
+
+5. 
+chuong trình ko ho?t d?ng.
+
+6.
+trong main() => ra d?a ch?.
+ngoài main() => ra 0.
+
+11.
+5 / 9 = 0.
+
+12
+Here
+
+
